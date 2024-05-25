@@ -42,24 +42,27 @@ header {
 }
 
 header > img {
-    width: 15em;
-    height: 15em;
+    width: 150px;
     margin-bottom: 1em;
 }
 
 header > h1 {
     display: inline-block;
-    color: #100d12;
     font-size: 0.8em;
     font-weight: 600;
     border-radius: 1em;
-    background-color: #ff9933;
+    background-color: rgb(15, 12, 17, 0.3);
     padding: 0 1em ;
     box-shadow: #100d12 0px 2px 3px 3px;
     
 }
 
+header > h1 > a {
+    color: #e8e4ea;
+}
+
 ul {
+    max-width: 700px;
     box-sizing: border-box;
     list-style: none;
     margin: 0 auto;
@@ -67,11 +70,11 @@ ul {
 }
 
 ul > li {
-    background-color: rgb(233, 229, 235);
+    background-color: #e9e5eb;
     border-radius: 10em;
     padding: .5em;
     margin: 1.4em 0;
-    box-shadow: #100d12 0px 2px 3px 3px;
+    box-shadow: #0f0c11 0px 2px 3px 3px;
 }
 
 ul > li > a {
