@@ -3,7 +3,7 @@ body, html {
     color: #e9e5eb;
     margin: 0;
     padding: 0;
-    font-family: "acumin-pro-wide", sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -27,12 +27,6 @@ main {
     transition: opacity 2s ease-in-out;
 }
 
-main > img {
-    display: block;
-    justify-content: center;
-    align-items: center;
-}
-
 header {
     margin-top: 1em;
     text-align: center;
@@ -42,7 +36,7 @@ header {
 }
 
 header > img {
-    width: 150px;
+    width: 300px;
     margin-bottom: 1em;
 }
 
@@ -51,9 +45,9 @@ header > h1 {
     font-size: 0.8em;
     font-weight: 600;
     border-radius: 1em;
-    background-color: rgb(15, 12, 17, 0.3);
+    background-color: #ff99334d;
     padding: 0 1em ;
-    box-shadow: #100d12 0px 2px 3px 3px;
+    box-shadow: #0f0c11 0px 2px 3px 3px;
     
 }
 
@@ -70,7 +64,7 @@ ul {
 }
 
 ul > li {
-    background-color: #e9e5eb;
+    background-color: #6c3f994d;
     border-radius: 10em;
     padding: .5em;
     margin: 1.4em 0;
@@ -87,7 +81,7 @@ ul > li > a {
 
 
 a {
-    color: #100d12;
+    color: #e8e4ea;
     text-decoration: none;
 }
 
@@ -101,5 +95,5 @@ p > a {
     background-color: rgb(233, 229, 235, 0.1);
     border-radius: 10em;
     padding: .5em;
-    margin: 1.4em o;
+    margin: 1.4em 0;
 }
