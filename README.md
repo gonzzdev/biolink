@@ -5,13 +5,13 @@
 <p align="center">
   <span style="width: 8px;"> </span>
   <span style="width: 8px;"> </span>
-  <a href="https://instagram.com/jos.gonzz" target="blank">
+  <a href="https://instagram.com/gonzz.dev" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
   </a>
-    <a href="https://twitter.com/gonzz_art" target="blank">
+    <a href="https://twitter.com/gonzz_dev" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de midudev" height="23px" width="28px" />
   </a>
-     <a href="https://youtube.com/gonzz-art" target="blank">
+     <a href="https://youtube.com/gonzz-dev" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
   </a>
   <span style="width: 8px;"> </span>
@@ -24,4 +24,4 @@
 A minimal "Linktree" or "Link in Bio" Clone.
 </p>
 
-<h3 align="center">📸 Revisa mi trabajo <a href="https://gonzz.art">aquí</a> o <a href="https://instagram.com/jos.gonzz">aquí</a>.</h3>
+<h3 align="center">📸 Revisa mi trabajo <a href="https://gonzz.dev">aquí</a> o <a href="https://instagram.com/gonzz.dev">aquí</a>.</h3>
